@@ -1,4 +1,4 @@
-# Zepto Clone
+# Zepto New Features
 
 A modern e-commerce application built with React, TypeScript, and Tailwind CSS, featuring real-time scanning, coin rewards, and an intuitive shopping experience.
 
@@ -15,7 +15,6 @@ A modern e-commerce application built with React, TypeScript, and Tailwind CSS, 
 
 ### 💰 Rewards System
 - Earn coins on purchases (1 coin per ₹50 spent)
-- Coin animation effects
 - Redeem coins for rewards:
   - Free delivery
   - Cashback
