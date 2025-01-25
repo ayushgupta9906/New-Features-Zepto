@@ -12,9 +12,9 @@ import { products } from './data/products';
 
 // Mock data
 const mockUser: User = {
-  id: '1',
+  id: '2',
   email: 'user@example.com',
-  name: 'John Doe',
+  name: 'Ayush Gupta',
   coins: 500,
   walletBalance: 1000,
   totalOrders: 25,
@@ -24,9 +24,9 @@ const mockUser: User = {
 const mockUsers: User[] = [
   mockUser,
   {
-    id: '2',
+    id: '1',
     email: 'jane@example.com',
-    name: 'Jane Smith',
+    name: 'Arush Arora',
     coins: 750,
     walletBalance: 1500,
     totalOrders: 35,
