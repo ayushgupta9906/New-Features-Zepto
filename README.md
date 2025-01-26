@@ -1,6 +1,6 @@
 # Zepto New Features
 
-A modern e-commerce application built with React, TypeScript, and Tailwind CSS, featuring real-time scanning, coin rewards, and an intuitive shopping experience.
+A modern e-commerce application with new Features built with React, TypeScript, and Tailwind CSS, featuring real-time scanning, coin rewards, and an intuitive shopping experience.
 
 ![Zepto Clone Screenshot](https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&q=80)
 ![Screenshot 1](Screenshot%202025-01-25%20212945.png)
