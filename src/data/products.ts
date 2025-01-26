@@ -1,0 +1,122 @@
+export const products = [
+  {
+    id: "maggi-001",
+    name: "Maggi 2-Minute Noodles",
+    price: 14,
+    image: "https://i.postimg.cc/W4wrgMVk/71-T0-Qf-Fl-3-L.jpg",
+    category: "Instant Food",
+    description: "MAGGI 2-minute Noodles have been a classic Indian snack for the last 40 years.",
+    barcode: "8901058851298",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=xYsxCBZ0OCM",
+    weatherTags: ["comfort", "rainy"],
+    moodTags: ["quick", "comfort"],
+    coinReward: 1
+  },
+  {
+    id: "sweetcorn-001",
+    name: "American Sweet Corn",
+    price: 40,
+    image: "https://i.postimg.cc/0jn8PdT9/images-1.jpg",
+    category: "Fresh Vegetables",
+    description: "Fresh and tender sweet corn, perfect for grilling or boiling.",
+    barcode: "8901058851299",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=GNwXUkz0bJE",
+    weatherTags: ["sunny", "refreshing"],
+    moodTags: ["healthy", "fresh"],
+    coinReward: 2
+  },
+  {
+    id: "paneer-001",
+    name: "Fresh Paneer Block",
+    price: 80,
+    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7",
+    category: "Dairy",
+    description: "Fresh, soft paneer made from pure milk. Perfect for curries and grilling.",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=paneer-recipe",
+    weatherTags: ["anytime"],
+    moodTags: ["protein", "vegetarian"],
+    coinReward: 4
+  },
+  {
+    id: "chicken-001",
+    name: "Chicken Breast Fillets",
+    price: 220,
+    image: "https://images.unsplash.com/photo-1604503468506-a8da13d82791",
+    category: "Meat & Poultry",
+    description: "Premium chicken breast fillets, perfect for grilling or curry.",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=chicken-recipe",
+    weatherTags: ["anytime"],
+    moodTags: ["protein", "healthy"],
+    coinReward: 11
+  },
+  {
+    id: "smoothie-001",
+    name: "Mixed Berry Smoothie Pack",
+    price: 160,
+    image: "https://images.unsplash.com/photo-1553530979-7ee52a2670c4",
+    category: "Frozen",
+    description: "Pre-packed mixed berries perfect for smoothies.",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=smoothie-recipe",
+    weatherTags: ["sunny", "hot"],
+    moodTags: ["refreshing", "healthy"],
+    coinReward: 8
+  },
+  {
+    id: "soup-001",
+    name: "Tomato Soup Mix",
+    price: 45,
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+    category: "Instant Food",
+    description: "Quick and delicious tomato soup mix.",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=soup-recipe",
+    weatherTags: ["rainy", "cold"],
+    moodTags: ["comfort", "warm"],
+    coinReward: 2
+  },
+  {
+    id: "nuts-001",
+    name: "Mixed Nuts Pack",
+    price: 299,
+    image: "https://images.unsplash.com/photo-1606923829579-0cb981a83e2e",
+    category: "Dry Fruits",
+    description: "Premium mixed nuts - almonds, cashews, and walnuts.",
+    weatherTags: ["anytime"],
+    moodTags: ["healthy", "protein"],
+    coinReward: 15
+  },
+  {
+    id: "chocolate-001",
+    name: "Dark Chocolate Bar",
+    price: 150,
+    image: "https://images.unsplash.com/photo-1548907040-4d42b61be2b3",
+    category: "Confectionery",
+    description: "70% dark chocolate bar made with premium cocoa.",
+    weatherTags: ["anytime"],
+    moodTags: ["indulgent", "comfort"],
+    coinReward: 7
+  },
+  {
+    id: "coffee-001",
+    name: "Premium Coffee Beans",
+    price: 450,
+    image: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e",
+    category: "Beverages",
+    description: "Arabica coffee beans, medium roast.",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=coffee-recipe",
+    weatherTags: ["cold", "rainy"],
+    moodTags: ["energizing", "morning"],
+    coinReward: 22
+  },
+  {
+    id: "pasta-001",
+    name: "Whole Grain Pasta",
+    price: 120,
+    image: "https://images.unsplash.com/photo-1551462147-37885acc36f1",
+    category: "Pasta & Noodles",
+    description: "Healthy whole grain pasta, rich in fiber.",
+    recipeVideo: "https://www.youtube.com/embed/watch?v=pasta-recipe",
+    weatherTags: ["anytime"],
+    moodTags: ["healthy", "dinner"],
+    coinReward: 6
+  }
+];
